@@ -26,8 +26,8 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ### Links
 
-- Repository URL: [Github](https://your-solution-url.com)
-- See demo: [demo](https://your-live-site-url.com)
+- Repository URL: [Github](https://github.com/EudesSerpa/FM-qr_code_component)
+- See demo: [demo](https://fm-qrcode-sc.netlify.app/)
 
 ## My process
 
